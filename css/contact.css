@@ -1,0 +1,55 @@
+.contact .card-body .pb {
+    padding-bottom: 8px;
+}
+
+.contact .card-body .mb-0 {
+    margin-bottom: 0;
+}
+
+.contact .card-body .mt-0 {
+    margin-top: 0;
+}
+
+.contact .input-group {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+}
+
+.contact .row {
+    margin-bottom: 16px;
+}
+
+.contact .input-group input {
+    height: 24px;
+    width: 100%;
+    border: 0;
+    padding: 0 20px;
+    outline: 0;
+}
+
+.contact .input-group img {
+    width: 18px;
+}
+
+.contact textarea {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    outline: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    resize: none
+}
+
+.contact label {
+    margin-left: 18px;
+}
+
+.contact button {
+    color: #FFFFFF;
+    border: 0;
+    border-radius: 10px;
+    padding: 12px 22px;
+}

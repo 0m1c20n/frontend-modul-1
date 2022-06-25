@@ -1,0 +1,31 @@
+.cv .bg-primary .card-body {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0 8px;
+}
+
+.cv .card-body {
+    padding: 20px;
+}
+
+.cv .card-body h5 {
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+
+.cv .education .card-body h5 {
+    margin: 0;
+
+}
+
+.cv .category {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #9A9A9A;
+}
